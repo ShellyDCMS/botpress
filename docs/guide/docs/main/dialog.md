@@ -141,7 +141,7 @@ They can be seen as reusable components between multiple flows or even multiple 
 
 ### Installing skills
 
-Every skills must be exposed by a module. Modules can host any number of skills. All you need to do is install the required module and you will have access to its skills.
+Every skill must be exposed by a module. Modules can host any number of skills. All you need to do is install the required module and you will have access to its skills.
 
 ### Using skills
 
